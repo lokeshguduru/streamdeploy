@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Docker
+*.log
+
+# Secrets
+.env
+*.key
+*.pem
+
+# Misc
+.DS_Store
